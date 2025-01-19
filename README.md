@@ -14,6 +14,7 @@
   <a href="https://www.gitpod.io#gh-dark-mode-only">
     <img src="https://github.com/gitpod-io/gitpod/assets/55068936/ff437ec6-adda-4814-9e92-fff44cfd00ad" style="width: 256px">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fgitpod?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fgitpod.svg?type=shield"/></a>
 </div>
 
 
@@ -92,3 +93,7 @@ During the development of Gitpod, we also developed some of our infrastructure t
 
 We want to create a welcoming environment for everyone interested in contributing to Gitpod or participating in discussions with the Gitpod community.
 This project has adopted the [Contributor Covenant Code of Conduct](https://github.com/gitpod-io/.github/blob/main/CODE_OF_CONDUCT.md), [version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fgitpod.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fgitpod?ref=badge_large)
